@@ -25,3 +25,10 @@ Dynamic filtering: Slicers for year and payment method enable category-wise perf
 
 #### The following figure shows the insights for the year 2020 using slicer filters
 ![image alt](https://github.com/Fahim0729/Excel_SuperStore-Sales-Dataset-analysis/blob/6a831c8b7df5f0df7b049bba00d12be9f1f696c5/2020.png)
+
+###### Attached Files:
+- Excel file (.xlsx): SuperShop sales dataset with complete analysis
+* Report figures: Visualizations and charts generated from the analysis
+
+
+
