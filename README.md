@@ -22,3 +22,5 @@ Seasonal trends: December is the highest-selling month, while January consistent
 Top-performing categories and customers: The dashboard highlights the highest-revenue product sub-categories and the top five high-value customers, helping focus on the most profitable areas.
 
 Dynamic filtering: Slicers for year and payment method enable category-wise performance analysis for specific selections.
+
+![image alt](https://github.com/Fahim0729/Excel_SuperStore-Sales-Dataset-analysis/blob/fe58446e50bca760e96409285b9b155b941b95bc/2020.png)
