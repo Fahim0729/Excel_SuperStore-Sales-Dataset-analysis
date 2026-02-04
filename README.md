@@ -1,4 +1,4 @@
-# SuperStore Sales Dashboard (2019–2020)
+                                                                  # SuperStore Sales Dashboard (2019–2020)
 ## Introduction
 
 Built an interactive Excel dashboard to analyze two years (2019–2020) of SuperStore sales. The analysis includes gender, age group, payment method, product sub-category, and other dimensions, with slicers for dynamic filtering to explore the data interactively.
