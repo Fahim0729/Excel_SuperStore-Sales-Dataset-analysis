@@ -9,6 +9,10 @@ Feature Engineering: Derived month and year from the Order Date column and categ
 
 Exploratory Analysis: Used pivot tables and pivot charts—including pie, column, line, bar, and combo (column + line) charts—to summarize data and generate insights.
 
+![Dashboard Preview](ALL Year.png)
+
+
+
 ## Sales Insights and Key Findings
 
 Gender-based purchasing patterns: Women are responsible for roughly 70% of total sales, while men account for 30%. Women also show higher sales performance than men across all age groups.
