@@ -9,7 +9,7 @@ Feature Engineering: Derived month and year from the Order Date column and categ
 
 Exploratory Analysis: Used pivot tables and pivot charts—including pie, column, line, bar, and combo (column + line) charts—to summarize data and generate insights.
 
-![Dashboard Preview](ALL Year.png)
+![Dashboard Preview]([ALL Year.png](https://github.com/Fahim0729/Excel_SuperStore-Sales-Dataset-analysis/blob/main/ALL%20Year.png))
 
 
 
