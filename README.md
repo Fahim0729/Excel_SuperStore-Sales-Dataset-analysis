@@ -24,4 +24,4 @@ Top-performing categories and customers: The dashboard highlights the highest-re
 Dynamic filtering: Slicers for year and payment method enable category-wise performance analysis for specific selections.
 
 #### The following figure shows the insights for the year 2020 using slicer filters
-![image alt](https://github.com/Fahim0729/Excel_SuperStore-Sales-Dataset-analysis/blob/fe58446e50bca760e96409285b9b155b941b95bc/2020.png)
+![image alt](https://github.com/Fahim0729/Excel_SuperStore-Sales-Dataset-analysis/blob/6a831c8b7df5f0df7b049bba00d12be9f1f696c5/2020.png)
