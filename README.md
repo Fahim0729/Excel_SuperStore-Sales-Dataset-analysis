@@ -9,19 +9,19 @@ Feature Engineering: Derived month and year from the Order Date column and categ
 
 Exploratory Analysis: Used pivot tables and pivot charts—including pie, column, line, bar, and combo (column + line) charts—to summarize data and generate insights.
 
-![image alt](https://github.com/Fahim0729/Excel_SuperStore-Sales-Dataset-analysis/blob/00fce57fd8baa10eef2feaa5020e400ecaf5d84d/ALL%20Year.png)
-
-
 
 ## Sales Insights and Key Findings
 
-Gender-based purchasing patterns: Women are responsible for roughly 70% of total sales, while men account for 30%. Women also show higher sales performance than men across all age groups.
+Gender-based purchasing patterns: Women are responsible for 70% of total sales, while men account for 30%. Women also show higher sales performance than men across all age groups.
 
 Seasonal trends: A clear overall seasonal pattern was identified, with December emerging as the highest-selling month, while February consistently recorded the lowest sales volume.
+
+#### TThe following figure presents insights for the overall period of 2019–2020
+![image alt](https://github.com/Fahim0729/Excel_SuperStore-Sales-Dataset-analysis/blob/00fce57fd8baa10eef2feaa5020e400ecaf5d84d/ALL%20Year.png)
 
 Top-performing categories and customers: The dashboard highlights the highest-revenue product sub-categories and the top five high-value customers, helping focus on the most profitable areas.
 
 Dynamic filtering: Slicers for year and payment method enable category-wise performance analysis for specific selections.
 
-### The following picture shows the insights for the year 2020 using slicer filters
+#### The following figure shows the insights for the year 2020 using slicer filters
 ![image alt](https://github.com/Fahim0729/Excel_SuperStore-Sales-Dataset-analysis/blob/fe58446e50bca760e96409285b9b155b941b95bc/2020.png)
