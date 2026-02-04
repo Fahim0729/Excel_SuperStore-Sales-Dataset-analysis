@@ -16,7 +16,7 @@ Gender-based purchasing patterns: Women are responsible for 70% of total sales, 
 
 Seasonal trends: A clear overall seasonal pattern was identified, with December emerging as the highest-selling month, while February consistently recorded the lowest sales volume.
 
-#### TThe following figure presents insights for the overall period of 2019–2020
+#### The following figure presents insights for the overall period of 2019–2020
 ![image alt](https://github.com/Fahim0729/Excel_SuperStore-Sales-Dataset-analysis/blob/00fce57fd8baa10eef2feaa5020e400ecaf5d84d/ALL%20Year.png)
 
 Top-performing categories and customers: The dashboard highlights the highest-revenue product sub-categories and the top five high-value customers, helping focus on the most profitable areas.
