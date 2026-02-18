@@ -36,3 +36,10 @@ Built an **interactive Excel dashboard** to analyze two years (2019–2020) of S
 
 - **Excel file (.xlsx):** SuperStore sales dataset with complete analysis  
 - **Report figures:** Visualizations and charts generated from the analysis
+
+<div align="center">
+  
+**[⬆ Back to Top](#top)**
+
+</div>
+
