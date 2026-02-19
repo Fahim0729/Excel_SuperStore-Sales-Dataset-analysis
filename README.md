@@ -50,7 +50,7 @@ The leading contributors to overall sales are Phones **(24%)**, Chairs **(22%)**
 
 ---
 
-_ **🏆 Top Customers Visualization:**
+- **🏆 Top Customers Visualization:**
 A visual graph effectively highlights the top five customers, displaying their key information and relative contribution to overall sales.
 
 ---
