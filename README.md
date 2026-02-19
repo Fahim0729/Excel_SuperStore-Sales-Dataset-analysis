@@ -55,7 +55,7 @@ A visual graph effectively highlights the top five customers, displaying their k
 
 ---
 
-* Slicers for year and payment method are added to view category-wise performance for specific selections.
+-- Slicers for year and payment method are added to view category-wise performance for specific selections.
 
   #### 📊 Insights for 2020 (using slicer filters)
 <p align="center">
