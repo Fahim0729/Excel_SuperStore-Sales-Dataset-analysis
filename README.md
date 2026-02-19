@@ -32,7 +32,9 @@ Women consistently outperform men across all age groups. Adults place the highes
   <br>
   <em>Figure: Summary of Observed Trends and Patterns (2019–2020)</em>
 </p>
+
 ---
+
 - **📅 Seasonal Sales Trends:**
 A clear seasonal pattern is observed, with December emerging as the month with the highest sales, whereas February consistently records the lowest sales volume.
 
@@ -48,7 +50,7 @@ The leading contributors to overall sales are Phones **(24%)**, Chairs **(22%)**
 
 ---
 
--** 🏆 Top Customers Visualization:
+_ **🏆 Top Customers Visualization:**
 A visual graph effectively highlights the top five customers, displaying their key information and relative contribution to overall sales.
 
 ---
