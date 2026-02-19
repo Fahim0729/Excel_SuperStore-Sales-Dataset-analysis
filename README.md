@@ -20,15 +20,25 @@ Built an **interactive Excel dashboard** to analyze two years (2019–2020) of S
 
 - **📅 Seasonal trends:** A clear seasonal pattern emerges, with **December** as the **highest-selling month** and **February** as the **lowest**.  
 
-  #### 📊 Overall insights (2019–2020)  
-  ![image alt](https://github.com/Fahim0729/Excel_SuperStore-Sales-Dataset-analysis/blob/00fce57fd8baa10eef2feaa5020e400ecaf5d84d/ALL%20Year.png)
+  #### 📊 Overall insights (2019–2020)
+
+  <p align="center">
+  <img src="https://github.com/Fahim0729/Excel_SuperStore-Sales-Dataset-analysis/blob/00fce57fd8baa10eef2feaa5020e400ecaf5d84d/ALL%20Year.png" alt="Histogram" width="600"/>
+  <br>
+  <em>Figure: Summary of Observed Trends and Patterns (2019–2020)</em>
+</p>
 
 - **🏆 Top-performing categories and customers:** Dashboard highlights the **highest-revenue product sub-categories** and the **top five high-value customers**, focusing on the most profitable areas.  
 
 - **🎛️ Dynamic filtering:** **Slicers** for **year** and **payment method** enable category-wise performance analysis for specific selections.  
 
-  #### 📊 Insights for 2020 (using slicer filters)  
-  ![image alt](https://github.com/Fahim0729/Excel_SuperStore-Sales-Dataset-analysis/blob/6a831c8b7df5f0df7b049bba00d12be9f1f696c5/2020.png)
+  #### 📊 Insights for 2020 (using slicer filters)
+    <p align="center">
+  <img src="https://github.com/Fahim0729/Excel_SuperStore-Sales-Dataset-analysis/blob/6a831c8b7df5f0df7b049bba00d12be9f1f696c5/2020.png" alt="Histogram" width="600"/>
+  <br>
+  <em>Figure: Overview of Identified Trends and Patterns (2020)</em>
+</p>
+
 
 ---
 
