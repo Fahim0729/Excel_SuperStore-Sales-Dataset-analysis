@@ -54,6 +54,9 @@ The leading contributors to overall sales are Phones **(24%)**, Chairs **(22%)**
 A visual graph effectively highlights the top five customers, displaying their key information and relative contribution to overall sales.
 
 ---
+
+* Slicers for year and payment method are added to view category-wise performance for specific selections.
+
   #### 📊 Insights for 2020 (using slicer filters)
 <p align="center">
   <img src="https://github.com/Fahim0729/Excel_SuperStore-Sales-Dataset-analysis/blob/6a831c8b7df5f0df7b049bba00d12be9f1f696c5/2020.png" alt="Histogram" width="600"/>
