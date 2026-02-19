@@ -1,4 +1,4 @@
-# 🛒 SuperStore Sales Dashboard (2019–2020)
+# 🛒 SuperStore Sales Analysis & Trend Insights (2019–2020)
 
 ## 📌 Introduction
 
@@ -16,9 +16,13 @@ Built an **interactive Excel dashboard** to analyze two years (2019–2020) of S
 
 ## 📈 Sales Insights and Key Findings
 
-- **👩‍💼 Gender-based purchasing patterns:** Women account for **70% of total sales**, while men contribute **30%**. Women also show higher sales performance than men across all age groups.  
+- **👩‍💼 Gender-Based Purchasing Patterns:
+Customer purchasing behavior shows a significant gender disparity, with women accounting for approximately **70%** of total sales, while men contribute the remaining **30%**. 
 
-- **📅 Seasonal trends:** A clear seasonal pattern emerges, with **December** as the **highest-selling month** and **February** as the **lowest**.  
+---
+
+- **🧓 Age Group Analysis:
+Women consistently outperform men across all age groups. Adults place the highest number of orders, followed by young customers, for both genders. Within the adult group, women represent **34.67%** of sales, while men account for **15.32%**. Older customers tend to make fewer purchases, with older men contributing only **6.32%**, the lowest among all sub-groups.
 
   #### 📊 Overall insights (2019–2020)
 
@@ -28,9 +32,24 @@ Built an **interactive Excel dashboard** to analyze two years (2019–2020) of S
   <em>Figure: Summary of Observed Trends and Patterns (2019–2020)</em>
 </p>
 
-- **🏆 Top-performing categories and customers:** Dashboard highlights the **highest-revenue product sub-categories** and the **top five high-value customers**, focusing on the most profitable areas.  
+- **📅 Seasonal Sales Trends:
+A clear seasonal pattern is observed, with December emerging as the month with the highest sales, whereas February consistently records the lowest sales volume.
 
-- **🎛️ Dynamic filtering:** **Slicers** for **year** and **payment method** enable category-wise performance analysis for specific selections.  
+---
+
+- **💰 Monthly Profit Variation:
+Profit trends mirror overall sales in some months. December generates the highest profit, while April records the lowest overall profit.
+
+---
+
+- **📦 Top Product Sub-Categories:
+The leading contributors to overall sales are Phones **(24%)**, Chairs **(22%)**, and Binders **(21%)**, highlighting the most profitable product areas.
+
+---
+
+-** 🏆 Top Customers Visualization:
+A visual graph effectively highlights the top five customers, displaying their key information and relative contribution to overall sales.
+
 
   #### 📊 Insights for 2020 (using slicer filters)
     <p align="center">
@@ -39,13 +58,11 @@ Built an **interactive Excel dashboard** to analyze two years (2019–2020) of S
   <em>Figure: Overview of Identified Trends and Patterns (2020)</em>
 </p>
 
-
 ---
 
-### 📎 Attached Files
+## 📝 Conclusion
 
-- **Excel file (.xlsx):** SuperStore sales dataset with complete analysis  
-- **Report figures:** Visualizations and charts generated from the analysis
+The dashboard reveals key trends: women and adults drive most sales, December is the peak month, and Phones, Chairs, and Binders lead in revenue. Interactive visuals highlight top customers and opportunities.
 
 <div align="center">
   
