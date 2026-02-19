@@ -52,7 +52,7 @@ A visual graph effectively highlights the top five customers, displaying their k
 
 
   #### 📊 Insights for 2020 (using slicer filters)
-    <p align="center">
+<p align="center">
   <img src="https://github.com/Fahim0729/Excel_SuperStore-Sales-Dataset-analysis/blob/6a831c8b7df5f0df7b049bba00d12be9f1f696c5/2020.png" alt="Histogram" width="600"/>
   <br>
   <em>Figure: Overview of Identified Trends and Patterns (2020)</em>
