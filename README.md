@@ -2,7 +2,7 @@
 
 ## 📌 Introduction
 
-Built an **interactive Excel dashboard** to analyze two years (2019–2020) of SuperStore sales. The analysis covers **gender, age group, payment method, product sub-category**, and other dimensions, with **slicers** for dynamic filtering to explore the data interactively.
+Created an interactive Excel dashboard to analyze two years (2019–2020) of SuperStore sales. Key dimensions such as gender, age group, payment method, and product sub-category were examined using dynamic filter slicers, allowing users to interactively explore the data.
 
 ---
 
@@ -10,14 +10,14 @@ Built an **interactive Excel dashboard** to analyze two years (2019–2020) of S
 
 - **⚙️ Feature Engineering:** Derived **month** and **year** from the Order Date column and categorized **Age** into three meaningful groups using conditional logic (IF statements).  
 
-- **🔎 Exploratory Analysis:** Used **pivot tables** and **pivot charts**—including **pie, column, line, bar, and combo (column + line) charts**—to summarize data and generate insights.  
+- **🔎 Exploratory Analysis: Pivot tables, pivot charts (pie charts, column charts, line charts, bar charts, and combo charts) were used to summarize and derive insights by analyzing the data.
 
 ---
 
 ## 📈 Sales Insights and Key Findings
 
 - **👩‍💼 Gender-Based Purchasing Patterns:**
-Customer purchasing behavior shows a significant gender disparity, with women accounting for approximately **70%** of total sales, while men contribute the remaining **30%**. 
+There is a strong gender gap in terms of customer purchasing patterns, as women make up about 70 percent of the total sales, whereas men make up the other 30 percent.
 
 ---
 
@@ -36,26 +36,26 @@ Women consistently outperform men across all age groups. Adults place the highes
 ---
 
 - **📅 Seasonal Sales Trends:**
-A clear seasonal pattern is observed, with December emerging as the month with the highest sales, whereas February consistently records the lowest sales volume.
+There is an apparent seasonality to the sales and the highest sales are recorded in the month of December, with lowest sales turnover in the month of February.
 
 ---
 
 - **💰 Monthly Profit Variation:**
-Profit trends mirror overall sales in some months. December generates the highest profit, while April records the lowest overall profit.
+Every month, profit patterns reflect the general sales. The peak profit is December and the minimum overall profit is recorded in April.
 
 ---
 
 - **📦 Top Product Sub-Categories:**
-The leading contributors to overall sales are Phones **(24%)**, Chairs **(22%)**, and Binders **(21%)**, highlighting the most profitable product areas.
+The most profitable product categories include Phones (24%), Chairs (22%), and Binders (21) as the top product sub-categories in terms of overall sales.
 
 ---
 
 - **🏆 Top Customers Visualization:**
-A visual graph effectively highlights the top five customers, displaying their key information and relative contribution to overall sales.
+The top five customers are also identified, highlighting their key information and their proportional contribution to overall sales.
 
 ---
 
-✨ Slicers for year and payment method are added to view category-wise performance for specific selections.
+✨ Year and payment method slicers are also added to see the category performance of specific selections.
 
   #### 📊 Insights for 2020 (using slicer filters)
 <p align="center">
@@ -68,7 +68,7 @@ A visual graph effectively highlights the top five customers, displaying their k
 
 ## 📝 Conclusion
 
-The dashboard reveals key trends: women and adults drive most sales, December is the peak month, and Phones, Chairs, and Binders lead in revenue. Interactive visuals highlight top customers and opportunities.
+Key trends indicated by the dashboard are that most sales are made by women and adults, December is the most profitable month, and Phones, Chairs, and Binders are the most profitable products. Top customers and opportunities are pointed out in the form of interactive visuals.
 
 <div align="center">
   
