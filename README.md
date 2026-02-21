@@ -2,7 +2,7 @@
 
 ## 📌 Introduction
 
-Created an interactive Excel dashboard to analyze two years (2019–2020) of SuperStore sales. Key dimensions such as gender, age group, payment method, and product sub-category were examined using dynamic filter slicers, allowing users to interactively explore the data.
+Created an interactive Excel dashboard to analyze two years (2019–2020) of SuperStore sales. Gender, age group, payment method, product sub-category, and other dimensions are analyzed using dynamic slicers for interactive data exploration.
 
 ---
 
@@ -22,7 +22,7 @@ There is a strong gender gap in terms of customer purchasing patterns, as women 
 ---
 
 - **🧓 Age Group Analysis:**
-Women consistently outperform men across all age groups. Adults place the highest number of orders, followed by young customers, for both genders. Within the adult group, women represent **34.67%** of sales, while men account for **15.32%**. Older customers tend to make fewer purchases, with older men contributing only **6.32%**, the lowest among all sub-groups.
+Women have always been performing better than men in all the age groups. Adults place the highest number of orders, followed by young customers, for both genders. Within the adult group, women represent **34.67%** of sales, while men account for **15.32%**. Older customers tend to make fewer purchases, with older men contributing only **6.32%**, the lowest among all sub-groups.
 
 ---
   #### 📊 Overall insights (2019–2020)
