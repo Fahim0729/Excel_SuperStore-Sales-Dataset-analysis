@@ -68,7 +68,7 @@ The top five customers are also identified, highlighting their key information a
 
 ## 📝 Conclusion
 
-Key trends indicated by the dashboard are that most sales are made by women and adults, December is the most profitable month, and Phones, Chairs, and Binders are the most profitable products. Top customers and opportunities are pointed out in the form of interactive visuals.
+Key trends indicated by the dashboard are that most sales are made by women and adults, December is the most profitable month, and Phones, Chairs, and Binders are the most profitable products. Interactive visuals prioritize best customers and opportunities.
 
 <div align="center">
   
