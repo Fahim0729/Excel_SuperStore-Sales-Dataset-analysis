@@ -19,12 +19,10 @@ Created an interactive Excel dashboard to analyze two years (2019–2020) of Sup
 - **👩‍💼 Gender-Based Purchasing Patterns:**
 There is a strong gender gap in terms of customer purchasing patterns, as women make up about **70 percent** of the total sales, whereas men make up the other **30 percent**.
 
----
 
 - **🧓 Age Group Analysis:**
 **Women** have always been performing better than men in all the age groups. **Adults** place the highest number of orders, followed by young customers, for both genders. Within the adult group, women represent **34.67%** of sales, while men account for **15.32%**. Older customers tend to make fewer purchases, with older men contributing only **6.32%**, the lowest among all sub-groups.
 
----
   #### 📊 Overall insights (2019–2020)
 
   <p align="center">
@@ -33,27 +31,21 @@ There is a strong gender gap in terms of customer purchasing patterns, as women 
   <em>Figure: Summary of Observed Trends and Patterns (2019–2020)</em>
 </p>
 
----
 
 - **📅 Seasonal Sales Trends:**
 There is an apparent seasonality to the sales and the highest sales are recorded in the month of **December**, with lowest sales turnover in the month of **February**.
 
----
 
 - **💰 Monthly Profit Variation:**
 Every month, profit patterns reflect the general sales. The peak profit is **December** and the minimum overall profit is recorded in **April**.
 
----
-
 - **📦 Top Product Sub-Categories:**
 **Phones (24%), Chairs (22%), and Binders (21%)** are the most lucrative product segments and are the leading overall sales contributors.
 
----
 
 - **🏆 Top Customers Visualization:**
 The top five customers are also identified, highlighting their key information and their proportional contribution to overall sales.
 
----
 
 ✨ Year and payment method slicers are also added to see the category performance of specific selections.
 
